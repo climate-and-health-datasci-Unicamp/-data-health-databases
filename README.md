@@ -4,6 +4,8 @@ This repository presents information about the health databases from SSC (Health
 
 These databases were collected in the FAPESP project 17/20013-0, entitled "Human Health and Adaptation to Climate Change in Brazil: A Data Science Approach", with project at the Committee for Ethics in Research (CEP) under CAAE 95503318.4.0000.5404.
 
+The datasets are no public due to ethical restrictions. However, we are working to make them anonymised and public...stay tuned.
+
 ## Preprocessing data
 
 Both databases required data preprocessing and cleanning. These procedures are described in detail in Technical reports 01/2020 and 02/2020.
