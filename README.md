@@ -1,4 +1,4 @@
-# Health databases
+# Health databases: Preprocessing and Descriptive
 
 This repository presents information about the health databases from SSC (Health Secretary of Campinas - Secretaria de Saúde de Campinas) used in our projects. The databases are for hospitalizations and deaths in the city of Campinas, SP. 
 
