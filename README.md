@@ -16,7 +16,7 @@ Both databases required data preprocessing and cleanning. These procedures are d
 
 ## Data descriptive
 
-An analysis of basic description measures and of the distribution of data for sex, age, ICD, month and season was conducted and is presented in Technical reports 04/2020 and 05/2020.
+An analysis of basic description measures and of the distribution of data for sex, age, ICD, month and season was conducted for cardiovascular diseases (ICD from I00 to I99) and is presented in Technical reports 04/2020 and 05/2020.
 
 - [**TR 04/2020**](https://github.com/climate-and-health-datasci-Unicamp/data-health/blob/main/notebooks/TR_04_2020_Descriptive_of_circulatory_hospitalizations.ipynb): Descriptive for Hospitalizations database.
 
