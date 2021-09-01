@@ -1,6 +1,6 @@
 # Health databases: Preprocessing and Descriptive
 
-This repository presents information about the health databases from SSC (Health Secretary of Campinas - Secretaria de Saúde de Campinas) used in our projects. The databases are for hospitalizations and deaths in the city of Campinas, SP. 
+This repository presents information about the health databases from SSC (Campinas Health Department - Secretaria de Saúde de Campinas) used in our projects. The databases are for hospitalizations and deaths in the city of Campinas, SP. 
 
 These databases were collected in the FAPESP project 17/20013-0, entitled "Human Health and Adaptation to Climate Change in Brazil: A Data Science Approach", with project at the Committee for Ethics in Research (CEP) under CAAE 95503318.4.0000.5404.
 
